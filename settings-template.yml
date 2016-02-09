@@ -1,0 +1,11 @@
+crawler:
+    root_dir: /Path/to/Yojimbo-Sidekick/contents
+    
+writer:
+    export_dir: /Path/to/Export
+
+logger:
+    loglevel: warning
+    log_filename: logfile.txt
+    log_max_bytes: 1048576
+    log_backup_count: 5

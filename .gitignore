@@ -39,8 +39,6 @@ __pycache__/
 # This may contain sensitive login information
 # and not intended for commits
 settings.yml
-settings-*
-sample-*
 logfile.*
 env/
 output/
